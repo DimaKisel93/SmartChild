@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "755858253169",
+    "project_id": "smartchild-54214",
+    "storage_bucket": "smartchild-54214.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755858253169:android:d63458c4ff1f3c529082d0",
+        "android_client_info": {
+          "package_name": "com.kisel.smartchild"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW7YCH09-o3AxosJmifhvCN0CUnzn9LLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
